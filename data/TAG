@@ -1,0 +1,10 @@
+<ul style="font-family: 'Noto Sans KR', sans-serif;">
+                <li>strong tag : <strong>bold</strong></li>
+                <li>u tag : <u>underline</u></li>
+                <li>hN tag : heading</li>
+                <li>br tag : new line (closing tag는 필요하지 않다.)</li>
+                <li>p tag : new line (closing tag가 필요하며, 단락 설정을 할 때 유용)</li>
+                <li>img tag : image (src에 링크나 파일명 넣어주면 되고, width로 크기 설정)</li>
+                <li>a tag : href : 하이퍼링크</li>
+                <li>iframe tag : 동영상을 직접 넣을 수 있음(퍼가기 기능 사용)</li>
+            </ul>
